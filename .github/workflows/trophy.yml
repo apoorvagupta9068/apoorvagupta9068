@@ -13,7 +13,7 @@ jobs:
       - uses: Erik-Donath/github-profile-trophy@feature/generate-svg
         with:
           username: apoorvagupta9068
-          output_path: trophy.svg
+          file: trophy.svg
           token: ${{ secrets.GITHUB_TOKEN }}
       - run: |
           git config user.name "github-actions[bot]"
