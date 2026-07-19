@@ -6,6 +6,7 @@
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=apoorvagupta9068&color=blue&style=flat" alt="Profile Views"/>
+<a href="https://github.com/apoorvagupta9068"><img src="https://img.shields.io/badge/GitHub-Follow-black?logo=github" alt="GitHub"/></a>
 <a href="https://www.linkedin.com/in/apoorva-g-9ba552253"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" alt="LinkedIn"/></a>
 <a href="mailto:apoorvagupta9068@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail" alt="Email"/></a>
 </p>
@@ -14,7 +15,7 @@
 
 ### 👩‍💻 About Me
 
-- 🎓 Final-year **B.Tech, Computer Science & Engineering** student at FIT Engineering College, Meerut (2022–2026)
+- 🎓 **B.Tech, Computer Science & Engineering** graduate from Dr. APJ Abdul Kalam Technical Unversity (2022–2026)
 - 💼 Co-Founder & COO at **NeuroShieldX AI** (IIT Madras) — an AI cybersecurity startup building spoof-detection & identity-verification systems
 - 📊 Completed a **Data Analyst internship with the Indian Air Force**, building Power BI dashboards for fault detection and maintenance reporting
 - 🔭 Currently building full-stack apps with **React & Python**, and BI dashboards with **Power BI / Streamlit**
@@ -141,9 +142,18 @@
 
 ---
 
+### 🏆 Trophies
+
+<p align="left">
+<img src="https://raw.githubusercontent.com/apoorvagupta9068/apoorvagupta9068/main/trophy.svg" alt="trophies" />
+</p>
+
+---
+
 ### 🌐 Connect with Me
 
 <p align="left">
+<a href="https://github.com/apoorvagupta9068" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="GitHub" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/apoorva-g-9ba552253" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 <a href="https://x.com/ApoorvaGup43107" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
 <a href="https://www.geeksforgeeks.org/user/apoorvagu44ln/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="30" width="40" /></a>
