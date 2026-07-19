@@ -27,6 +27,15 @@
 
 ---
 
+### 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/apoorvagupta9068/apoorvagupta9068/output/snake-dark.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/apoorvagupta9068/apoorvagupta9068/output/snake.svg" />
+</picture>
+
+---
+
 ### 🧭 Experience
 
 | Role | Organization | Duration |
@@ -107,20 +116,13 @@
 </p>
 
 ---
-### 📊 GitHub Stats
+
+### 📊 GitHub Activity
 
 <p align="left">
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=apoorvagupta9068&show_icons=true&theme=radical&count_private=true" alt="apoorvagupta9068 stats" width="48%" /> -->
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=apoorvagupta9068&layout=compact&theme=radical" alt="Top Languages" width="45%" />
 <img src="https://streak-stats.demolab.com/?user=apoorvagupta9068&theme=radical" alt="apoorvagupta9068 streak" width="48%" />
 </p>
-
-<!-- <p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apoorvagupta9068&layout=compact&theme=radical" alt="Top Languages" width="45%" />
-</p>
-
-<p align="left">
-<img src="https://github-profile-trophy.vercel.app/?username=apoorvagupta9068&theme=radical&no-frame=true&row=1&column=6" alt="trophies"/>
-</p> -->
 
 <p align="left">
 <img src="https://img.shields.io/badge/Coding%20Streak-92%20days-orange?style=for-the-badge&logo=geeksforgeeks" alt="streak"/>
@@ -138,6 +140,7 @@
 - NCC 'A' Certificate holder; Rajya Puruskar awardee, Bharat Scouts & Guides
 
 ---
+
 ### 🌐 Connect with Me
 
 <p align="left">
